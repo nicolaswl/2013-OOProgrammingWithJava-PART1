@@ -1,7 +1,7 @@
 public class Name {
    
     public static void main(String[] args) {
-        String name = "Nicolas La Polla";
+        String name = "Nicolas";
         System.out.println(name);
         // Write your program here
         // Please answer to our survey http://oo-start.mooc.fi/english_mooc_participants/new
